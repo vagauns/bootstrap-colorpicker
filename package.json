@@ -1,5 +1,5 @@
 {
-  "name": "vagauns-bootstrap-colorpicker",
+  "name": "bootstrap-colorpicker",
   "version": "3.4.0",
   "description": "Bootstrap Colorpicker is a modular color picker plugin for Bootstrap 4.",
   "main": "./dist/js/bootstrap-colorpicker.js",
